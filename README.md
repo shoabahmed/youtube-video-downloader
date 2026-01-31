@@ -1,4 +1,4 @@
-# Gemini Universal Downloader
+# Universal Downloader
 
 A clean, modern, and powerful media downloader built with Python and CustomTkinter. Supports downloading video and audio from multiple social platforms.
 
