@@ -20,7 +20,7 @@ A clean, modern, and powerful media downloader built with Python and CustomTkint
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-downloader.git
+   git clone https://github.com/shoabahmed/youtube-video-downloader.git
    cd youtube-downloader
    ```
 
