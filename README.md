@@ -49,6 +49,4 @@ A clean, modern, and powerful media downloader built with Python and CustomTkint
 - `Pillow`: For image/thumbnail processing.
 - `packaging`: For version management.
 
-## 📝 License
 
-MIT License - feel free to use and modify!
