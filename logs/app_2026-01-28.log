@@ -1,0 +1,4 @@
+2026-01-28 14:52:17,255 [INFO] main - Application starting...
+2026-01-28 14:52:21,086 [INFO] downloader - Fetching metadata for URL: https://youtube.com/shorts/wCcduuZUzOQ?si=lqwIVfOkZGjzBxvo
+2026-01-28 14:52:23,720 [INFO] downloader - Metadata fetched successfully.
+2026-01-28 14:52:29,692 [INFO] downloader - Download completed.
